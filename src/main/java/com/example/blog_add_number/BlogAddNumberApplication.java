@@ -8,7 +8,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableScheduling
 @SpringBootApplication
 public class BlogAddNumberApplication {
-
     public static void main(String[] args) {
         SpringApplication.run(BlogAddNumberApplication.class, args);
     }
